@@ -1,0 +1,1 @@
+Please see Theme Documentation for more information.
